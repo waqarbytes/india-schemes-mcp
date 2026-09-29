@@ -1,0 +1,2058 @@
+[
+  {
+    "id": "pm-kisan",
+    "title": "PM-KISAN Samman Nidhi",
+    "description": "Provides \u20b96,000 per year in three installments to small and marginal farmers.",
+    "category": "Agriculture",
+    "type": "Central",
+    "eligibility": "All small and marginal farmers with cultivable land.",
+    "benefits": "\u20b92,000 every four months via Direct Benefit Transfer.",
+    "howToApply": "Apply online through https://pmkisan.gov.in or visit Common Service Centers.",
+    "documents": [
+      "Aadhaar card",
+      "Land records",
+      "Bank account details"
+    ],
+    "lastUpdated": "2025-07-08",
+    "status": "Active",
+    "keywords": [
+      "farmer",
+      "kisan",
+      "pm-kisan",
+      "agriculture",
+      "income"
+    ],
+    "url": "https://pmkisan.gov.in"
+  },
+  {
+    "id": "fasal-bima",
+    "title": "Pradhan Mantri Fasal Bima Yojana",
+    "description": "Crop insurance for farmers to protect against crop failure due to natural calamities.",
+    "category": "Agriculture",
+    "type": "Central",
+    "eligibility": "All farmers growing notified crops in notified areas.",
+    "benefits": "Insurance coverage for crop loss, premium subsidized by the government.",
+    "howToApply": "Apply via banks, insurance providers, or the PMFBY portal.",
+    "documents": [
+      "Aadhaar card",
+      "Land ownership proof",
+      "Sowing certificate",
+      "Bank details"
+    ],
+    "lastUpdated": "2025-07-08",
+    "status": "Active",
+    "keywords": [
+      "crop",
+      "insurance",
+      "fasal",
+      "bima",
+      "natural disaster"
+    ],
+    "url": "https://pmfby.gov.in"
+  },
+  {
+    "id": "kcc",
+    "title": "Kisan Credit Card Scheme",
+    "description": "Timely credit to farmers for cultivation and allied activities at subsidized interest.",
+    "category": "Agriculture",
+    "type": "Central",
+    "eligibility": "All farmers, including tenant farmers and sharecroppers.",
+    "benefits": "Short-term loans up to \u20b93 lakh at 4% interest (with prompt repayment).",
+    "howToApply": "Apply through any bank branch or via online banking portals.",
+    "documents": [
+      "Aadhaar card",
+      "Land records",
+      "Bank account passbook"
+    ],
+    "lastUpdated": "2025-07-08",
+    "status": "Active",
+    "keywords": [
+      "kcc",
+      "credit",
+      "loan",
+      "farming",
+      "agriculture"
+    ],
+    "url": "https://www.pmkisan.gov.in/KCC.aspx"
+  },
+  {
+    "id": "agri-scheme-4",
+    "title": "Agriculture Scheme 4",
+    "description": "Description for Agriculture Scheme 4.",
+    "category": "Agriculture",
+    "type": "Central",
+    "eligibility": "Eligibility details for Agriculture Scheme 4.",
+    "benefits": "Benefits provided under Agriculture Scheme 4.",
+    "howToApply": "Application process for Agriculture Scheme 4.",
+    "documents": [
+      "Aadhaar card",
+      "Land documents",
+      "Bank account details"
+    ],
+    "lastUpdated": "2025-07-08",
+    "status": "Active",
+    "keywords": [
+      "agriculture4",
+      "scheme4",
+      "farming",
+      "rural"
+    ],
+    "url": "https://example.gov.in/agriculture-scheme-4"
+  },
+  {
+    "id": "agri-scheme-5",
+    "title": "Agriculture Scheme 5",
+    "description": "Description for Agriculture Scheme 5.",
+    "category": "Agriculture",
+    "type": "Central",
+    "eligibility": "Eligibility details for Agriculture Scheme 5.",
+    "benefits": "Benefits provided under Agriculture Scheme 5.",
+    "howToApply": "Application process for Agriculture Scheme 5.",
+    "documents": [
+      "Aadhaar card",
+      "Land documents",
+      "Bank account details"
+    ],
+    "lastUpdated": "2025-07-08",
+    "status": "Active",
+    "keywords": [
+      "agriculture5",
+      "scheme5",
+      "farming",
+      "rural"
+    ],
+    "url": "https://example.gov.in/agriculture-scheme-5"
+  },
+  {
+    "id": "agri-scheme-6",
+    "title": "Agriculture Scheme 6",
+    "description": "Description for Agriculture Scheme 6.",
+    "category": "Agriculture",
+    "type": "Central",
+    "eligibility": "Eligibility details for Agriculture Scheme 6.",
+    "benefits": "Benefits provided under Agriculture Scheme 6.",
+    "howToApply": "Application process for Agriculture Scheme 6.",
+    "documents": [
+      "Aadhaar card",
+      "Land documents",
+      "Bank account details"
+    ],
+    "lastUpdated": "2025-07-08",
+    "status": "Active",
+    "keywords": [
+      "agriculture6",
+      "scheme6",
+      "farming",
+      "rural"
+    ],
+    "url": "https://example.gov.in/agriculture-scheme-6"
+  },
+  {
+    "id": "agri-scheme-7",
+    "title": "Agriculture Scheme 7",
+    "description": "Description for Agriculture Scheme 7.",
+    "category": "Agriculture",
+    "type": "Central",
+    "eligibility": "Eligibility details for Agriculture Scheme 7.",
+    "benefits": "Benefits provided under Agriculture Scheme 7.",
+    "howToApply": "Application process for Agriculture Scheme 7.",
+    "documents": [
+      "Aadhaar card",
+      "Land documents",
+      "Bank account details"
+    ],
+    "lastUpdated": "2025-07-08",
+    "status": "Active",
+    "keywords": [
+      "agriculture7",
+      "scheme7",
+      "farming",
+      "rural"
+    ],
+    "url": "https://example.gov.in/agriculture-scheme-7"
+  },
+  {
+    "id": "agri-scheme-8",
+    "title": "Agriculture Scheme 8",
+    "description": "Description for Agriculture Scheme 8.",
+    "category": "Agriculture",
+    "type": "Central",
+    "eligibility": "Eligibility details for Agriculture Scheme 8.",
+    "benefits": "Benefits provided under Agriculture Scheme 8.",
+    "howToApply": "Application process for Agriculture Scheme 8.",
+    "documents": [
+      "Aadhaar card",
+      "Land documents",
+      "Bank account details"
+    ],
+    "lastUpdated": "2025-07-08",
+    "status": "Active",
+    "keywords": [
+      "agriculture8",
+      "scheme8",
+      "farming",
+      "rural"
+    ],
+    "url": "https://example.gov.in/agriculture-scheme-8"
+  },
+  {
+    "id": "agri-scheme-9",
+    "title": "Agriculture Scheme 9",
+    "description": "Description for Agriculture Scheme 9.",
+    "category": "Agriculture",
+    "type": "Central",
+    "eligibility": "Eligibility details for Agriculture Scheme 9.",
+    "benefits": "Benefits provided under Agriculture Scheme 9.",
+    "howToApply": "Application process for Agriculture Scheme 9.",
+    "documents": [
+      "Aadhaar card",
+      "Land documents",
+      "Bank account details"
+    ],
+    "lastUpdated": "2025-07-08",
+    "status": "Active",
+    "keywords": [
+      "agriculture9",
+      "scheme9",
+      "farming",
+      "rural"
+    ],
+    "url": "https://example.gov.in/agriculture-scheme-9"
+  },
+  {
+    "id": "agri-scheme-10",
+    "title": "Agriculture Scheme 10",
+    "description": "Description for Agriculture Scheme 10.",
+    "category": "Agriculture",
+    "type": "Central",
+    "eligibility": "Eligibility details for Agriculture Scheme 10.",
+    "benefits": "Benefits provided under Agriculture Scheme 10.",
+    "howToApply": "Application process for Agriculture Scheme 10.",
+    "documents": [
+      "Aadhaar card",
+      "Land documents",
+      "Bank account details"
+    ],
+    "lastUpdated": "2025-07-08",
+    "status": "Active",
+    "keywords": [
+      "agriculture10",
+      "scheme10",
+      "farming",
+      "rural"
+    ],
+    "url": "https://example.gov.in/agriculture-scheme-10"
+  },
+  {
+    "id": "agri-scheme-11",
+    "title": "Agriculture Scheme 11",
+    "description": "Description for Agriculture Scheme 11.",
+    "category": "Agriculture",
+    "type": "Central",
+    "eligibility": "Eligibility details for Agriculture Scheme 11.",
+    "benefits": "Benefits provided under Agriculture Scheme 11.",
+    "howToApply": "Application process for Agriculture Scheme 11.",
+    "documents": [
+      "Aadhaar card",
+      "Land documents",
+      "Bank account details"
+    ],
+    "lastUpdated": "2025-07-08",
+    "status": "Active",
+    "keywords": [
+      "agriculture11",
+      "scheme11",
+      "farming",
+      "rural"
+    ],
+    "url": "https://example.gov.in/agriculture-scheme-11"
+  },
+  {
+    "id": "agri-scheme-12",
+    "title": "Agriculture Scheme 12",
+    "description": "Description for Agriculture Scheme 12.",
+    "category": "Agriculture",
+    "type": "Central",
+    "eligibility": "Eligibility details for Agriculture Scheme 12.",
+    "benefits": "Benefits provided under Agriculture Scheme 12.",
+    "howToApply": "Application process for Agriculture Scheme 12.",
+    "documents": [
+      "Aadhaar card",
+      "Land documents",
+      "Bank account details"
+    ],
+    "lastUpdated": "2025-07-08",
+    "status": "Active",
+    "keywords": [
+      "agriculture12",
+      "scheme12",
+      "farming",
+      "rural"
+    ],
+    "url": "https://example.gov.in/agriculture-scheme-12"
+  },
+  {
+    "id": "agri-scheme-13",
+    "title": "Agriculture Scheme 13",
+    "description": "Description for Agriculture Scheme 13.",
+    "category": "Agriculture",
+    "type": "Central",
+    "eligibility": "Eligibility details for Agriculture Scheme 13.",
+    "benefits": "Benefits provided under Agriculture Scheme 13.",
+    "howToApply": "Application process for Agriculture Scheme 13.",
+    "documents": [
+      "Aadhaar card",
+      "Land documents",
+      "Bank account details"
+    ],
+    "lastUpdated": "2025-07-08",
+    "status": "Active",
+    "keywords": [
+      "agriculture13",
+      "scheme13",
+      "farming",
+      "rural"
+    ],
+    "url": "https://example.gov.in/agriculture-scheme-13"
+  },
+  {
+    "id": "agri-scheme-14",
+    "title": "Agriculture Scheme 14",
+    "description": "Description for Agriculture Scheme 14.",
+    "category": "Agriculture",
+    "type": "Central",
+    "eligibility": "Eligibility details for Agriculture Scheme 14.",
+    "benefits": "Benefits provided under Agriculture Scheme 14.",
+    "howToApply": "Application process for Agriculture Scheme 14.",
+    "documents": [
+      "Aadhaar card",
+      "Land documents",
+      "Bank account details"
+    ],
+    "lastUpdated": "2025-07-08",
+    "status": "Active",
+    "keywords": [
+      "agriculture14",
+      "scheme14",
+      "farming",
+      "rural"
+    ],
+    "url": "https://example.gov.in/agriculture-scheme-14"
+  },
+  {
+    "id": "agri-scheme-15",
+    "title": "Agriculture Scheme 15",
+    "description": "Description for Agriculture Scheme 15.",
+    "category": "Agriculture",
+    "type": "Central",
+    "eligibility": "Eligibility details for Agriculture Scheme 15.",
+    "benefits": "Benefits provided under Agriculture Scheme 15.",
+    "howToApply": "Application process for Agriculture Scheme 15.",
+    "documents": [
+      "Aadhaar card",
+      "Land documents",
+      "Bank account details"
+    ],
+    "lastUpdated": "2025-07-08",
+    "status": "Active",
+    "keywords": [
+      "agriculture15",
+      "scheme15",
+      "farming",
+      "rural"
+    ],
+    "url": "https://example.gov.in/agriculture-scheme-15"
+  },
+  {
+    "id": "agri-scheme-16",
+    "title": "Agriculture Scheme 16",
+    "description": "Description for Agriculture Scheme 16.",
+    "category": "Agriculture",
+    "type": "Central",
+    "eligibility": "Eligibility details for Agriculture Scheme 16.",
+    "benefits": "Benefits provided under Agriculture Scheme 16.",
+    "howToApply": "Application process for Agriculture Scheme 16.",
+    "documents": [
+      "Aadhaar card",
+      "Land documents",
+      "Bank account details"
+    ],
+    "lastUpdated": "2025-07-08",
+    "status": "Active",
+    "keywords": [
+      "agriculture16",
+      "scheme16",
+      "farming",
+      "rural"
+    ],
+    "url": "https://example.gov.in/agriculture-scheme-16"
+  },
+  {
+    "id": "agri-scheme-17",
+    "title": "Agriculture Scheme 17",
+    "description": "Description for Agriculture Scheme 17.",
+    "category": "Agriculture",
+    "type": "Central",
+    "eligibility": "Eligibility details for Agriculture Scheme 17.",
+    "benefits": "Benefits provided under Agriculture Scheme 17.",
+    "howToApply": "Application process for Agriculture Scheme 17.",
+    "documents": [
+      "Aadhaar card",
+      "Land documents",
+      "Bank account details"
+    ],
+    "lastUpdated": "2025-07-08",
+    "status": "Active",
+    "keywords": [
+      "agriculture17",
+      "scheme17",
+      "farming",
+      "rural"
+    ],
+    "url": "https://example.gov.in/agriculture-scheme-17"
+  },
+  {
+    "id": "agri-scheme-18",
+    "title": "Agriculture Scheme 18",
+    "description": "Description for Agriculture Scheme 18.",
+    "category": "Agriculture",
+    "type": "Central",
+    "eligibility": "Eligibility details for Agriculture Scheme 18.",
+    "benefits": "Benefits provided under Agriculture Scheme 18.",
+    "howToApply": "Application process for Agriculture Scheme 18.",
+    "documents": [
+      "Aadhaar card",
+      "Land documents",
+      "Bank account details"
+    ],
+    "lastUpdated": "2025-07-08",
+    "status": "Active",
+    "keywords": [
+      "agriculture18",
+      "scheme18",
+      "farming",
+      "rural"
+    ],
+    "url": "https://example.gov.in/agriculture-scheme-18"
+  },
+  {
+    "id": "agri-scheme-19",
+    "title": "Agriculture Scheme 19",
+    "description": "Description for Agriculture Scheme 19.",
+    "category": "Agriculture",
+    "type": "Central",
+    "eligibility": "Eligibility details for Agriculture Scheme 19.",
+    "benefits": "Benefits provided under Agriculture Scheme 19.",
+    "howToApply": "Application process for Agriculture Scheme 19.",
+    "documents": [
+      "Aadhaar card",
+      "Land documents",
+      "Bank account details"
+    ],
+    "lastUpdated": "2025-07-08",
+    "status": "Active",
+    "keywords": [
+      "agriculture19",
+      "scheme19",
+      "farming",
+      "rural"
+    ],
+    "url": "https://example.gov.in/agriculture-scheme-19"
+  },
+  {
+    "id": "agri-scheme-20",
+    "title": "Agriculture Scheme 20",
+    "description": "Description for Agriculture Scheme 20.",
+    "category": "Agriculture",
+    "type": "Central",
+    "eligibility": "Eligibility details for Agriculture Scheme 20.",
+    "benefits": "Benefits provided under Agriculture Scheme 20.",
+    "howToApply": "Application process for Agriculture Scheme 20.",
+    "documents": [
+      "Aadhaar card",
+      "Land documents",
+      "Bank account details"
+    ],
+    "lastUpdated": "2025-07-08",
+    "status": "Active",
+    "keywords": [
+      "agriculture20",
+      "scheme20",
+      "farming",
+      "rural"
+    ],
+    "url": "https://example.gov.in/agriculture-scheme-20"
+  },
+  {
+    "id": "pmjay",
+    "title": "Ayushman Bharat - Pradhan Mantri Jan Arogya Yojana (PM-JAY)",
+    "description": "Provides health insurance coverage up to \u20b95 lakh per family per year for secondary and tertiary care hospitalization.",
+    "category": "Health",
+    "type": "Central",
+    "eligibility": "Economically vulnerable families identified through SECC 2011.",
+    "benefits": "Cashless and paperless access to services for beneficiaries at public and empanelled private hospitals.",
+    "howToApply": "Check eligibility on the PM-JAY portal or visit nearest hospital/CSC.",
+    "documents": [
+      "Aadhaar card",
+      "Ration card",
+      "Income certificate"
+    ],
+    "lastUpdated": "2025-07-08",
+    "status": "Active",
+    "keywords": [
+      "health",
+      "insurance",
+      "pmjay",
+      "ayushman",
+      "hospital"
+    ],
+    "url": "https://pmjay.gov.in"
+  },
+  {
+    "id": "abhim",
+    "title": "PM Ayushman Bharat Health Infrastructure Mission (AB-HIM)",
+    "description": "Strengthens health infrastructure by developing critical care and diagnostic facilities.",
+    "category": "Health",
+    "type": "Central",
+    "eligibility": "Public health institutions and citizens in rural/urban areas.",
+    "benefits": "Infrastructure development, lab networks, and critical care services.",
+    "howToApply": "Implemented by government health departments; no individual application needed.",
+    "documents": [],
+    "lastUpdated": "2025-07-08",
+    "status": "Active",
+    "keywords": [
+      "infrastructure",
+      "health mission",
+      "abhim",
+      "diagnostics"
+    ],
+    "url": "https://ab-hwc.nhp.gov.in"
+  },
+  {
+    "id": "pmssy",
+    "title": "Pradhan Mantri Swasthya Suraksha Yojana (PMSSY)",
+    "description": "Establishes AIIMS-like institutions and upgrades government medical colleges.",
+    "category": "Health",
+    "type": "Central",
+    "eligibility": "Medical institutions and patients benefiting from upgraded infrastructure.",
+    "benefits": "Better medical education and patient services.",
+    "howToApply": "Handled at institutional/government level.",
+    "documents": [],
+    "lastUpdated": "2025-07-08",
+    "status": "Active",
+    "keywords": [
+      "medical college",
+      "aiims",
+      "pmssy",
+      "education"
+    ],
+    "url": "https://pmssy-mohfw.nic.in"
+  },
+  {
+    "id": "health-scheme-4",
+    "title": "Health Scheme 4",
+    "description": "Description for Health Scheme 4.",
+    "category": "Health",
+    "type": "Central",
+    "eligibility": "Eligibility criteria for Health Scheme 4.",
+    "benefits": "Benefits provided under Health Scheme 4.",
+    "howToApply": "Application process for Health Scheme 4.",
+    "documents": [
+      "Aadhaar card",
+      "Health ID",
+      "Income certificate"
+    ],
+    "lastUpdated": "2025-07-08",
+    "status": "Active",
+    "keywords": [
+      "health4",
+      "wellness",
+      "clinic",
+      "insurance"
+    ],
+    "url": "https://example.gov.in/health-scheme-4"
+  },
+  {
+    "id": "health-scheme-5",
+    "title": "Health Scheme 5",
+    "description": "Description for Health Scheme 5.",
+    "category": "Health",
+    "type": "Central",
+    "eligibility": "Eligibility criteria for Health Scheme 5.",
+    "benefits": "Benefits provided under Health Scheme 5.",
+    "howToApply": "Application process for Health Scheme 5.",
+    "documents": [
+      "Aadhaar card",
+      "Health ID",
+      "Income certificate"
+    ],
+    "lastUpdated": "2025-07-08",
+    "status": "Active",
+    "keywords": [
+      "health5",
+      "wellness",
+      "clinic",
+      "insurance"
+    ],
+    "url": "https://example.gov.in/health-scheme-5"
+  },
+  {
+    "id": "health-scheme-6",
+    "title": "Health Scheme 6",
+    "description": "Description for Health Scheme 6.",
+    "category": "Health",
+    "type": "Central",
+    "eligibility": "Eligibility criteria for Health Scheme 6.",
+    "benefits": "Benefits provided under Health Scheme 6.",
+    "howToApply": "Application process for Health Scheme 6.",
+    "documents": [
+      "Aadhaar card",
+      "Health ID",
+      "Income certificate"
+    ],
+    "lastUpdated": "2025-07-08",
+    "status": "Active",
+    "keywords": [
+      "health6",
+      "wellness",
+      "clinic",
+      "insurance"
+    ],
+    "url": "https://example.gov.in/health-scheme-6"
+  },
+  {
+    "id": "health-scheme-7",
+    "title": "Health Scheme 7",
+    "description": "Description for Health Scheme 7.",
+    "category": "Health",
+    "type": "Central",
+    "eligibility": "Eligibility criteria for Health Scheme 7.",
+    "benefits": "Benefits provided under Health Scheme 7.",
+    "howToApply": "Application process for Health Scheme 7.",
+    "documents": [
+      "Aadhaar card",
+      "Health ID",
+      "Income certificate"
+    ],
+    "lastUpdated": "2025-07-08",
+    "status": "Active",
+    "keywords": [
+      "health7",
+      "wellness",
+      "clinic",
+      "insurance"
+    ],
+    "url": "https://example.gov.in/health-scheme-7"
+  },
+  {
+    "id": "health-scheme-8",
+    "title": "Health Scheme 8",
+    "description": "Description for Health Scheme 8.",
+    "category": "Health",
+    "type": "Central",
+    "eligibility": "Eligibility criteria for Health Scheme 8.",
+    "benefits": "Benefits provided under Health Scheme 8.",
+    "howToApply": "Application process for Health Scheme 8.",
+    "documents": [
+      "Aadhaar card",
+      "Health ID",
+      "Income certificate"
+    ],
+    "lastUpdated": "2025-07-08",
+    "status": "Active",
+    "keywords": [
+      "health8",
+      "wellness",
+      "clinic",
+      "insurance"
+    ],
+    "url": "https://example.gov.in/health-scheme-8"
+  },
+  {
+    "id": "health-scheme-9",
+    "title": "Health Scheme 9",
+    "description": "Description for Health Scheme 9.",
+    "category": "Health",
+    "type": "Central",
+    "eligibility": "Eligibility criteria for Health Scheme 9.",
+    "benefits": "Benefits provided under Health Scheme 9.",
+    "howToApply": "Application process for Health Scheme 9.",
+    "documents": [
+      "Aadhaar card",
+      "Health ID",
+      "Income certificate"
+    ],
+    "lastUpdated": "2025-07-08",
+    "status": "Active",
+    "keywords": [
+      "health9",
+      "wellness",
+      "clinic",
+      "insurance"
+    ],
+    "url": "https://example.gov.in/health-scheme-9"
+  },
+  {
+    "id": "health-scheme-10",
+    "title": "Health Scheme 10",
+    "description": "Description for Health Scheme 10.",
+    "category": "Health",
+    "type": "Central",
+    "eligibility": "Eligibility criteria for Health Scheme 10.",
+    "benefits": "Benefits provided under Health Scheme 10.",
+    "howToApply": "Application process for Health Scheme 10.",
+    "documents": [
+      "Aadhaar card",
+      "Health ID",
+      "Income certificate"
+    ],
+    "lastUpdated": "2025-07-08",
+    "status": "Active",
+    "keywords": [
+      "health10",
+      "wellness",
+      "clinic",
+      "insurance"
+    ],
+    "url": "https://example.gov.in/health-scheme-10"
+  },
+  {
+    "id": "health-scheme-11",
+    "title": "Health Scheme 11",
+    "description": "Description for Health Scheme 11.",
+    "category": "Health",
+    "type": "Central",
+    "eligibility": "Eligibility criteria for Health Scheme 11.",
+    "benefits": "Benefits provided under Health Scheme 11.",
+    "howToApply": "Application process for Health Scheme 11.",
+    "documents": [
+      "Aadhaar card",
+      "Health ID",
+      "Income certificate"
+    ],
+    "lastUpdated": "2025-07-08",
+    "status": "Active",
+    "keywords": [
+      "health11",
+      "wellness",
+      "clinic",
+      "insurance"
+    ],
+    "url": "https://example.gov.in/health-scheme-11"
+  },
+  {
+    "id": "health-scheme-12",
+    "title": "Health Scheme 12",
+    "description": "Description for Health Scheme 12.",
+    "category": "Health",
+    "type": "Central",
+    "eligibility": "Eligibility criteria for Health Scheme 12.",
+    "benefits": "Benefits provided under Health Scheme 12.",
+    "howToApply": "Application process for Health Scheme 12.",
+    "documents": [
+      "Aadhaar card",
+      "Health ID",
+      "Income certificate"
+    ],
+    "lastUpdated": "2025-07-08",
+    "status": "Active",
+    "keywords": [
+      "health12",
+      "wellness",
+      "clinic",
+      "insurance"
+    ],
+    "url": "https://example.gov.in/health-scheme-12"
+  },
+  {
+    "id": "health-scheme-13",
+    "title": "Health Scheme 13",
+    "description": "Description for Health Scheme 13.",
+    "category": "Health",
+    "type": "Central",
+    "eligibility": "Eligibility criteria for Health Scheme 13.",
+    "benefits": "Benefits provided under Health Scheme 13.",
+    "howToApply": "Application process for Health Scheme 13.",
+    "documents": [
+      "Aadhaar card",
+      "Health ID",
+      "Income certificate"
+    ],
+    "lastUpdated": "2025-07-08",
+    "status": "Active",
+    "keywords": [
+      "health13",
+      "wellness",
+      "clinic",
+      "insurance"
+    ],
+    "url": "https://example.gov.in/health-scheme-13"
+  },
+  {
+    "id": "health-scheme-14",
+    "title": "Health Scheme 14",
+    "description": "Description for Health Scheme 14.",
+    "category": "Health",
+    "type": "Central",
+    "eligibility": "Eligibility criteria for Health Scheme 14.",
+    "benefits": "Benefits provided under Health Scheme 14.",
+    "howToApply": "Application process for Health Scheme 14.",
+    "documents": [
+      "Aadhaar card",
+      "Health ID",
+      "Income certificate"
+    ],
+    "lastUpdated": "2025-07-08",
+    "status": "Active",
+    "keywords": [
+      "health14",
+      "wellness",
+      "clinic",
+      "insurance"
+    ],
+    "url": "https://example.gov.in/health-scheme-14"
+  },
+  {
+    "id": "health-scheme-15",
+    "title": "Health Scheme 15",
+    "description": "Description for Health Scheme 15.",
+    "category": "Health",
+    "type": "Central",
+    "eligibility": "Eligibility criteria for Health Scheme 15.",
+    "benefits": "Benefits provided under Health Scheme 15.",
+    "howToApply": "Application process for Health Scheme 15.",
+    "documents": [
+      "Aadhaar card",
+      "Health ID",
+      "Income certificate"
+    ],
+    "lastUpdated": "2025-07-08",
+    "status": "Active",
+    "keywords": [
+      "health15",
+      "wellness",
+      "clinic",
+      "insurance"
+    ],
+    "url": "https://example.gov.in/health-scheme-15"
+  },
+  {
+    "id": "health-scheme-16",
+    "title": "Health Scheme 16",
+    "description": "Description for Health Scheme 16.",
+    "category": "Health",
+    "type": "Central",
+    "eligibility": "Eligibility criteria for Health Scheme 16.",
+    "benefits": "Benefits provided under Health Scheme 16.",
+    "howToApply": "Application process for Health Scheme 16.",
+    "documents": [
+      "Aadhaar card",
+      "Health ID",
+      "Income certificate"
+    ],
+    "lastUpdated": "2025-07-08",
+    "status": "Active",
+    "keywords": [
+      "health16",
+      "wellness",
+      "clinic",
+      "insurance"
+    ],
+    "url": "https://example.gov.in/health-scheme-16"
+  },
+  {
+    "id": "health-scheme-17",
+    "title": "Health Scheme 17",
+    "description": "Description for Health Scheme 17.",
+    "category": "Health",
+    "type": "Central",
+    "eligibility": "Eligibility criteria for Health Scheme 17.",
+    "benefits": "Benefits provided under Health Scheme 17.",
+    "howToApply": "Application process for Health Scheme 17.",
+    "documents": [
+      "Aadhaar card",
+      "Health ID",
+      "Income certificate"
+    ],
+    "lastUpdated": "2025-07-08",
+    "status": "Active",
+    "keywords": [
+      "health17",
+      "wellness",
+      "clinic",
+      "insurance"
+    ],
+    "url": "https://example.gov.in/health-scheme-17"
+  },
+  {
+    "id": "health-scheme-18",
+    "title": "Health Scheme 18",
+    "description": "Description for Health Scheme 18.",
+    "category": "Health",
+    "type": "Central",
+    "eligibility": "Eligibility criteria for Health Scheme 18.",
+    "benefits": "Benefits provided under Health Scheme 18.",
+    "howToApply": "Application process for Health Scheme 18.",
+    "documents": [
+      "Aadhaar card",
+      "Health ID",
+      "Income certificate"
+    ],
+    "lastUpdated": "2025-07-08",
+    "status": "Active",
+    "keywords": [
+      "health18",
+      "wellness",
+      "clinic",
+      "insurance"
+    ],
+    "url": "https://example.gov.in/health-scheme-18"
+  },
+  {
+    "id": "health-scheme-19",
+    "title": "Health Scheme 19",
+    "description": "Description for Health Scheme 19.",
+    "category": "Health",
+    "type": "Central",
+    "eligibility": "Eligibility criteria for Health Scheme 19.",
+    "benefits": "Benefits provided under Health Scheme 19.",
+    "howToApply": "Application process for Health Scheme 19.",
+    "documents": [
+      "Aadhaar card",
+      "Health ID",
+      "Income certificate"
+    ],
+    "lastUpdated": "2025-07-08",
+    "status": "Active",
+    "keywords": [
+      "health19",
+      "wellness",
+      "clinic",
+      "insurance"
+    ],
+    "url": "https://example.gov.in/health-scheme-19"
+  },
+  {
+    "id": "health-scheme-20",
+    "title": "Health Scheme 20",
+    "description": "Description for Health Scheme 20.",
+    "category": "Health",
+    "type": "Central",
+    "eligibility": "Eligibility criteria for Health Scheme 20.",
+    "benefits": "Benefits provided under Health Scheme 20.",
+    "howToApply": "Application process for Health Scheme 20.",
+    "documents": [
+      "Aadhaar card",
+      "Health ID",
+      "Income certificate"
+    ],
+    "lastUpdated": "2025-07-08",
+    "status": "Active",
+    "keywords": [
+      "health20",
+      "wellness",
+      "clinic",
+      "insurance"
+    ],
+    "url": "https://example.gov.in/health-scheme-20"
+  },
+  {
+    "id": "samagra-shiksha",
+    "title": "Samagra Shiksha Abhiyan",
+    "description": "Integrated scheme for school education from pre-school to class 12, ensuring inclusive and equitable quality education.",
+    "category": "Education",
+    "type": "Central",
+    "eligibility": "All students enrolled in government and government-aided schools.",
+    "benefits": "Funds for textbooks, uniforms, inclusive education, ICT, teacher training, and infrastructure.",
+    "howToApply": "Automatically available to enrolled students. Implemented through state governments.",
+    "documents": [
+      "School admission documents",
+      "Aadhaar card (optional)"
+    ],
+    "lastUpdated": "2025-07-08",
+    "status": "Active",
+    "keywords": [
+      "school",
+      "education",
+      "shiksha",
+      "textbook",
+      "government school"
+    ],
+    "url": "https://education.gov.in/en/samagra-shiksha"
+  },
+  {
+    "id": "pm-shri",
+    "title": "PM SHRI (PM Schools for Rising India)",
+    "description": "Model schools that showcase all components of the National Education Policy (NEP) 2020.",
+    "category": "Education",
+    "type": "Central",
+    "eligibility": "Schools selected based on nominations from state/UT governments.",
+    "benefits": "Smart classrooms, modern infrastructure, experiential learning resources.",
+    "howToApply": "Schools are selected by the Ministry of Education via state nominations.",
+    "documents": [
+      "School profile",
+      "Infrastructure reports"
+    ],
+    "lastUpdated": "2025-07-08",
+    "status": "Active",
+    "keywords": [
+      "model school",
+      "nep",
+      "pm shri",
+      "modern education"
+    ],
+    "url": "https://pmshri.education.gov.in"
+  },
+  {
+    "id": "nsp",
+    "title": "National Scholarship Portal (NSP)",
+    "description": "A one-stop portal for multiple scholarships from the central and state governments.",
+    "category": "Education",
+    "type": "Central",
+    "eligibility": "SC/ST/OBC/Minority/EWS students across India meeting scheme-specific criteria.",
+    "benefits": "Financial aid via bank transfer for pre-matric, post-matric, and merit-based scholarships.",
+    "howToApply": "Apply at https://scholarships.gov.in during the application window.",
+    "documents": [
+      "Aadhaar card",
+      "Income certificate",
+      "Caste certificate",
+      "Bank account"
+    ],
+    "lastUpdated": "2025-07-08",
+    "status": "Active",
+    "keywords": [
+      "scholarship",
+      "nsp",
+      "education aid",
+      "minority",
+      "merit"
+    ],
+    "url": "https://scholarships.gov.in"
+  },
+  {
+    "id": "pm-yasasvi",
+    "title": "PM Young Achievers Scholarship Award Scheme for Vibrant India (PM-YASASVI)",
+    "description": "Scholarship for students in OBC, EBC, and DNT categories for class 9 and 11.",
+    "category": "Education",
+    "type": "Central",
+    "eligibility": "Students in classes 9 and 11 belonging to OBC/EBC/DNT categories with family income below ₹2.5 lakh.",
+    "benefits": "Scholarship of ₹75,000 to ₹1.25 lakh per year depending on class.",
+    "howToApply": "Apply via NTA portal: https://yet.nta.ac.in",
+    "documents": [
+      "Income certificate",
+      "Caste certificate",
+      "Previous year mark sheet"
+    ],
+    "lastUpdated": "2025-07-08",
+    "status": "Active",
+    "keywords": [
+      "yasasvi",
+      "scholarship",
+      "obc",
+      "dnt",
+      "education"
+    ],
+    "url": "https://yet.nta.ac.in"
+  },
+  {
+    "id": "mid-day-meal",
+    "title": "Mid-Day Meal Scheme",
+    "description": "Nutritional support through free cooked meals to children in government and aided schools.",
+    "category": "Education",
+    "type": "Central",
+    "eligibility": "All students in classes 1 to 8 in government, local body, and government-aided schools.",
+    "benefits": "Free lunch on school days to improve enrollment, retention, and nutrition.",
+    "howToApply": "No application needed. Automatically provided in schools.",
+    "documents": [],
+    "lastUpdated": "2025-07-08",
+    "status": "Active",
+    "keywords": [
+      "meal",
+      "nutrition",
+      "school lunch",
+      "mdm",
+      "mid-day"
+    ],
+    "url": "https://pmposhan.education.gov.in"
+  },
+  {
+    "id": "pm-evidya",
+    "title": "PM e-Vidya Programme",
+    "description": "A comprehensive initiative for digital education under Atmanirbhar Bharat Abhiyan.",
+    "category": "Education",
+    "type": "Central",
+    "eligibility": "Students and teachers in school and higher education institutions.",
+    "benefits": "Digital learning via DIKSHA, SWAYAM, Swayam Prabha TV channels, and radio podcasts.",
+    "howToApply": "Access freely through [diksha.gov.in](https://diksha.gov.in) or PM eVIDYA platforms.",
+    "documents": [],
+    "lastUpdated": "2025-07-08",
+    "status": "Active",
+    "keywords": [
+      "online education",
+      "digital",
+      "e-vidya",
+      "e-learning",
+      "pm evidya"
+    ],
+    "url": "https://diksha.gov.in"
+  },
+  {
+    "id": "stars",
+    "title": "STARS Project",
+    "description": "Supported by the World Bank to improve quality of school education and governance in six Indian states.",
+    "category": "Education",
+    "type": "Central + World Bank",
+    "eligibility": "States of Himachal Pradesh, Kerala, Madhya Pradesh, Maharashtra, Odisha, Rajasthan.",
+    "benefits": "Improved assessment, governance, and teacher training systems.",
+    "howToApply": "Implemented by State Project Directorates; not for individual application.",
+    "documents": [],
+    "lastUpdated": "2025-07-08",
+    "status": "Active",
+    "keywords": [
+      "stars",
+      "school reform",
+      "quality",
+      "governance",
+      "world bank"
+    ],
+    "url": "https://education.gov.in/stars"
+  },
+  {
+    "id": "swayam",
+    "title": "SWAYAM - Study Webs of Active-Learning for Young Aspiring Minds",
+    "description": "A platform for free online courses from Class 9 to postgraduate level.",
+    "category": "Education",
+    "type": "Central",
+    "eligibility": "Any learner across India (students, professionals, teachers).",
+    "benefits": "Access to over 2000 courses from institutions like IITs, IIMs, NPTEL.",
+    "howToApply": "Enroll for free at [swayam.gov.in](https://swayam.gov.in).",
+    "documents": [
+      "Aadhaar (optional)",
+      "email"
+    ],
+    "lastUpdated": "2025-07-08",
+    "status": "Active",
+    "keywords": [
+      "swayam",
+      "online",
+      "free course",
+      "higher education",
+      "nptel"
+    ],
+    "url": "https://swayam.gov.in"
+  },
+  {
+    "id": "nmeict",
+    "title": "National Mission on Education through ICT (NMEICT)",
+    "description": "Promotes the use of ICT tools for quality education and e-content development.",
+    "category": "Education",
+    "type": "Central",
+    "eligibility": "Students and faculty in higher education institutions.",
+    "benefits": "Free access to learning materials, virtual labs, and digital classrooms.",
+    "howToApply": "Available through partner portals like NPTEL, SWAYAM, e-Yantra.",
+    "documents": [],
+    "lastUpdated": "2025-07-08",
+    "status": "Active",
+    "keywords": [
+      "ict",
+      "nmeict",
+      "digital",
+      "virtual lab",
+      "e-learning"
+    ],
+    "url": "https://www.education.gov.in/en/nmeict"
+  },
+  {
+    "id": "inspire",
+    "title": "INSPIRE Scholarships",
+    "description": "Innovation in Science Pursuit for Inspired Research provides scholarships to top-performing students.",
+    "category": "Education",
+    "type": "Central",
+    "eligibility": "Top 1% students in Class 12 board exams pursuing BSc/BS/Int. MSc/MS in natural sciences.",
+    "benefits": "Scholarship of ₹80,000 per year for five years.",
+    "howToApply": "Apply at [online-inspire.gov.in](https://online-inspire.gov.in).",
+    "documents": [
+      "12th mark sheet",
+      "admission proof",
+      "bank details"
+    ],
+    "lastUpdated": "2025-07-08",
+    "status": "Active",
+    "keywords": [
+      "science",
+      "inspire",
+      "scholarship",
+      "research",
+      "dst"
+    ],
+    "url": "https://online-inspire.gov.in"
+  },
+  {
+    "id": "pm-evidya",
+    "title": "PM e-Vidya Programme",
+    "description": "A comprehensive initiative for digital education under Atmanirbhar Bharat Abhiyan.",
+    "category": "Education",
+    "type": "Central",
+    "eligibility": "Students and teachers in school and higher education institutions.",
+    "benefits": "Digital learning via DIKSHA, SWAYAM, Swayam Prabha TV channels, and radio podcasts.",
+    "howToApply": "Access freely through [diksha.gov.in](https://diksha.gov.in) or PM eVIDYA platforms.",
+    "documents": [],
+    "lastUpdated": "2025-07-08",
+    "status": "Active",
+    "keywords": [
+      "online education",
+      "digital",
+      "e-vidya",
+      "e-learning",
+      "pm evidya"
+    ],
+    "url": "https://diksha.gov.in"
+  },
+  {
+    "id": "stars",
+    "title": "STARS Project",
+    "description": "Supported by the World Bank to improve quality of school education and governance in six Indian states.",
+    "category": "Education",
+    "type": "Central + World Bank",
+    "eligibility": "States of Himachal Pradesh, Kerala, Madhya Pradesh, Maharashtra, Odisha, Rajasthan.",
+    "benefits": "Improved assessment, governance, and teacher training systems.",
+    "howToApply": "Implemented by State Project Directorates; not for individual application.",
+    "documents": [],
+    "lastUpdated": "2025-07-08",
+    "status": "Active",
+    "keywords": [
+      "stars",
+      "school reform",
+      "quality",
+      "governance",
+      "world bank"
+    ],
+    "url": "https://education.gov.in/stars"
+  },
+  {
+    "id": "swayam",
+    "title": "SWAYAM - Study Webs of Active-Learning for Young Aspiring Minds",
+    "description": "A platform for free online courses from Class 9 to postgraduate level.",
+    "category": "Education",
+    "type": "Central",
+    "eligibility": "Any learner across India (students, professionals, teachers).",
+    "benefits": "Access to over 2000 courses from institutions like IITs, IIMs, NPTEL.",
+    "howToApply": "Enroll for free at [swayam.gov.in](https://swayam.gov.in).",
+    "documents": [
+      "Aadhaar (optional)",
+      "email"
+    ],
+    "lastUpdated": "2025-07-08",
+    "status": "Active",
+    "keywords": [
+      "swayam",
+      "online",
+      "free course",
+      "higher education",
+      "nptel"
+    ],
+    "url": "https://swayam.gov.in"
+  },
+  {
+    "id": "nmeict",
+    "title": "National Mission on Education through ICT (NMEICT)",
+    "description": "Promotes the use of ICT tools for quality education and e-content development.",
+    "category": "Education",
+    "type": "Central",
+    "eligibility": "Students and faculty in higher education institutions.",
+    "benefits": "Free access to learning materials, virtual labs, and digital classrooms.",
+    "howToApply": "Available through partner portals like NPTEL, SWAYAM, e-Yantra.",
+    "documents": [],
+    "lastUpdated": "2025-07-08",
+    "status": "Active",
+    "keywords": [
+      "ict",
+      "nmeict",
+      "digital",
+      "virtual lab",
+      "e-learning"
+    ],
+    "url": "https://www.education.gov.in/en/nmeict"
+  },
+  {
+    "id": "inspire",
+    "title": "INSPIRE Scholarships",
+    "description": "Innovation in Science Pursuit for Inspired Research provides scholarships to top-performing students.",
+    "category": "Education",
+    "type": "Central",
+    "eligibility": "Top 1% students in Class 12 board exams pursuing BSc/BS/Int. MSc/MS in natural sciences.",
+    "benefits": "Scholarship of ₹80,000 per year for five years.",
+    "howToApply": "Apply at [online-inspire.gov.in](https://online-inspire.gov.in).",
+    "documents": [
+      "12th mark sheet",
+      "admission proof",
+      "bank details"
+    ],
+    "lastUpdated": "2025-07-08",
+    "status": "Active",
+    "keywords": [
+      "science",
+      "inspire",
+      "scholarship",
+      "research",
+      "dst"
+    ],
+    "url": "https://online-inspire.gov.in"
+  },
+  {
+    "id": "naps",
+    "title": "National Apprenticeship Promotion Scheme (NAPS)",
+    "description": "Encourages youth skill development through apprenticeships by offering financial incentives to employers.",
+    "category": "Education",
+    "type": "Central",
+    "eligibility": "Youth aged 14+ who have completed at least Class 5, and are not in full-time education.",
+    "benefits": "Stipend support and certification after completion of training.",
+    "howToApply": "Register on the apprenticeship portal: https://apprenticeshipindia.gov.in.",
+    "documents": [
+      "Aadhaar card",
+      "Bank details",
+      "Educational qualification proof"
+    ],
+    "lastUpdated": "2025-07-08",
+    "status": "Active",
+    "keywords": [
+      "apprenticeship",
+      "skill",
+      "training",
+      "naps",
+      "jobs"
+    ],
+    "url": "https://apprenticeshipindia.gov.in"
+  },
+  {
+    "id": "pm-yuva",
+    "title": "PM YUVA Yojana",
+    "description": "Aims to promote entrepreneurship among youth through education, training, and support.",
+    "category": "Education",
+    "type": "Central",
+    "eligibility": "Youth between 18–35 years; special focus on SC/ST/women/disabled.",
+    "benefits": "Entrepreneurship training, mentoring, and support.",
+    "howToApply": "Apply via the Ministry of Skill Development and Entrepreneurship portal.",
+    "documents": [
+      "ID proof",
+      "Bank account",
+      "Age and caste certificate (if applicable)"
+    ],
+    "lastUpdated": "2025-07-08",
+    "status": "Active",
+    "keywords": [
+      "entrepreneurship",
+      "yuva",
+      "youth",
+      "business",
+      "startup"
+    ],
+    "url": "https://msde.gov.in"
+  },
+  {
+    "id": "udaan",
+    "title": "UDAAN Scheme for Girl Students",
+    "description": "Supports girl students from economically disadvantaged backgrounds to pursue engineering and tech education.",
+    "category": "Education",
+    "type": "Central",
+    "eligibility": "Girl students in Class 11 from CBSE schools with annual family income < ₹6 lakh.",
+    "benefits": "Free online resources, tablets, mentoring, and financial support.",
+    "howToApply": "Apply through CBSE portal during the application window.",
+    "documents": [
+      "Income certificate",
+      "School certificate",
+      "Aadhaar card"
+    ],
+    "lastUpdated": "2025-07-08",
+    "status": "Active",
+    "keywords": [
+      "udaan",
+      "girl",
+      "cbse",
+      "engineering",
+      "education"
+    ],
+    "url": "https://cbseacademic.nic.in/udaan.html"
+  },
+  {
+    "id": "nishtha",
+    "title": "National Initiative for School Heads' and Teachers' Holistic Advancement (NISHTHA)",
+    "description": "A capacity building program for 'Improving Quality of School Education through Integrated Teacher Training'.",
+    "category": "Education",
+    "type": "Central",
+    "eligibility": "All school heads and teachers at the elementary level in government and aided schools.",
+    "benefits": "Online/offline training modules with certification and incentives.",
+    "howToApply": "Access via DIKSHA portal or state education portals.",
+    "documents": [
+      "Teacher ID",
+      "School registration"
+    ],
+    "lastUpdated": "2025-07-08",
+    "status": "Active",
+    "keywords": [
+      "teacher",
+      "training",
+      "nishtha",
+      "school improvement",
+      "capacity building"
+    ],
+    "url": "https://diksha.gov.in"
+  },
+  {
+    "id": "nfm-sc",
+    "title": "National Fellowship for SC Students",
+    "description": "Fellowships for SC students pursuing MPhil and PhD programs.",
+    "category": "Education",
+    "type": "Central",
+    "eligibility": "SC students enrolled in full-time MPhil/PhD courses with annual income < ₹6 lakh.",
+    "benefits": "Monthly fellowship + contingency + HRA.",
+    "howToApply": "Apply online through the UGC portal.",
+    "documents": [
+      "Caste certificate",
+      "Admission letter",
+      "Bank account",
+      "Income proof"
+    ],
+    "lastUpdated": "2025-07-08",
+    "status": "Active",
+    "keywords": [
+      "sc",
+      "phd",
+      "fellowship",
+      "research",
+      "ugc"
+    ],
+    "url": "https://www.ugc.ac.in"
+  },
+  {
+    "id": "imprint",
+    "title": "IMPRINT India",
+    "description": "IMPRINT (Impacting Research Innovation and Technology) is a joint initiative of MHRD and DST to fund research in higher education.",
+    "category": "Education",
+    "type": "Central",
+    "eligibility": "Faculty and researchers of centrally funded institutions (IITs, IISERs, NITs, etc.)",
+    "benefits": "Funding support for research projects in engineering and social sciences.",
+    "howToApply": "Submit project proposals through the official IMPRINT portal.",
+    "documents": [
+      "Project proposal",
+      "Institutional NOC",
+      "Budget documents"
+    ],
+    "lastUpdated": "2025-07-08",
+    "status": "Active",
+    "keywords": [
+      "imprint",
+      "research",
+      "technology",
+      "funding",
+      "education"
+    ],
+    "url": "https://imprint-india.org"
+  },
+  {
+    "id": "supercomputing",
+    "title": "National Supercomputing Mission (NSM)",
+    "description": "Develops India's capacity in high-performance computing (HPC) for scientific research and academic institutions.",
+    "category": "Education",
+    "type": "Central",
+    "eligibility": "Academic and research institutions with HPC-related projects.",
+    "benefits": "Access to supercomputing infrastructure, training, and research grants.",
+    "howToApply": "Institutions must apply via NSM implementation agencies like C-DAC or IITs.",
+    "documents": [
+      "Research proposal",
+      "Project lead details",
+      "Institution affiliation"
+    ],
+    "lastUpdated": "2025-07-08",
+    "status": "Active",
+    "keywords": [
+      "supercomputing",
+      "hpc",
+      "research",
+      "nsm",
+      "education"
+    ],
+    "url": "https://nsmindia.in"
+  },
+  {
+    "id": "digital-edu-arch",
+    "title": "National Digital Education Architecture (NDEAR)",
+    "description": "An open digital infrastructure framework to support ed-tech innovations, launched under NEP 2020.",
+    "category": "Education",
+    "type": "Central",
+    "eligibility": "Education departments, schools, ed-tech startups.",
+    "benefits": "Interoperability, open standards, digital credentials.",
+    "howToApply": "Not an individual scheme; implemented by MoE and states.",
+    "documents": [],
+    "lastUpdated": "2025-07-08",
+    "status": "Active",
+    "keywords": [
+      "digital education",
+      "ndear",
+      "framework",
+      "edtech"
+    ],
+    "url": "https://www.education.gov.in/en/ndear"
+  },
+  {
+    "id": "poshan-shakti",
+    "title": "PM POSHAN Shakti Nirman",
+    "description": "Renamed version of the Mid-Day Meal scheme aimed at enhancing nutrition of school children.",
+    "category": "Education",
+    "type": "Central",
+    "eligibility": "Children studying in Classes 1 to 8 in government and aided schools.",
+    "benefits": "Hot cooked meals with improved nutrition standards.",
+    "howToApply": "No application needed; provided through schools.",
+    "documents": [],
+    "lastUpdated": "2025-07-08",
+    "status": "Active",
+    "keywords": [
+      "nutrition",
+      "mid-day meal",
+      "poshan",
+      "school food",
+      "education"
+    ],
+    "url": "https://pmposhan.education.gov.in"
+  },
+  {
+    "id": "nme-mcm",
+    "title": "National Means-cum-Merit Scholarship Scheme (NMMSS)",
+    "description": "Supports meritorious students from economically weaker sections to prevent dropouts after Class 8.",
+    "category": "Education",
+    "type": "Central",
+    "eligibility": "Students of Class 9 with annual family income < ₹3.5 lakh, who scored ≥55% in Class 8.",
+    "benefits": "₹12,000 scholarship per year from Class 9 to 12.",
+    "howToApply": "Apply through NSP (https://scholarships.gov.in) using school recommendation.",
+    "documents": [
+      "Income certificate",
+      "Caste certificate",
+      "8th mark sheet"
+    ],
+    "lastUpdated": "2025-07-08",
+    "status": "Active",
+    "keywords": [
+      "nmmss",
+      "scholarship",
+      "merit",
+      "means",
+      "education"
+    ],
+    "url": "https://scholarships.gov.in"
+  },
+  {
+    "id": "pmay-urban",
+    "title": "Pradhan Mantri Awas Yojana - Urban (PMAY-U)",
+    "description": "Aims to provide affordable housing to urban poor by 2022 through slum redevelopment, credit-linked subsidy, and beneficiary-led construction.",
+    "category": "Housing",
+    "type": "Central",
+    "eligibility": "EWS, LIG, and MIG households not owning a pucca house anywhere in India.",
+    "benefits": "Interest subsidy up to ₹2.67 lakh on home loans under CLSS component.",
+    "howToApply": "Apply online via [pmaymis.gov.in](https://pmaymis.gov.in) or visit your nearest CSC.",
+    "documents": [
+      "Aadhaar",
+      "Income certificate",
+      "Bank passbook",
+      "Property documents"
+    ],
+    "lastUpdated": "2025-07-08",
+    "status": "Active",
+    "keywords": [
+      "pmay",
+      "urban",
+      "housing",
+      "loan subsidy",
+      "home"
+    ],
+    "url": "https://pmaymis.gov.in"
+  },
+  {
+    "id": "pmay-gramin",
+    "title": "Pradhan Mantri Awas Yojana - Gramin (PMAY-G)",
+    "description": "Provides financial assistance for construction of pucca houses to rural poor households.",
+    "category": "Housing",
+    "type": "Central",
+    "eligibility": "Households living in kutcha or dilapidated houses in rural areas, as per SECC 2011 data.",
+    "benefits": "Financial support up to ₹1.2–1.3 lakh depending on location, plus MGNREGA and toilet assistance.",
+    "howToApply": "Apply through Gram Panchayat or local development officer.",
+    "documents": [
+      "Aadhaar",
+      "Job card",
+      "BPL status proof",
+      "Rural ID"
+    ],
+    "lastUpdated": "2025-07-08",
+    "status": "Active",
+    "keywords": [
+      "pmay",
+      "gramin",
+      "rural housing",
+      "pucca house",
+      "village"
+    ],
+    "url": "https://pmayg.nic.in"
+  },
+  {
+    "id": "clss",
+    "title": "Credit Linked Subsidy Scheme (CLSS)",
+    "description": "Provides interest subsidies on home loans for the purchase, construction, or extension of houses.",
+    "category": "Housing",
+    "type": "Central",
+    "eligibility": "EWS, LIG, MIG-I and MIG-II families with annual incomes up to ₹18 lakh.",
+    "benefits": "Interest subsidy between 3% and 6.5% on loan amounts up to ₹12 lakh.",
+    "howToApply": "Contact any PMAY-registered bank or housing finance company.",
+    "documents": [
+      "Income proof",
+      "Aadhaar",
+      "Loan application",
+      "Property details"
+    ],
+    "lastUpdated": "2025-07-08",
+    "status": "Active",
+    "keywords": [
+      "clss",
+      "loan",
+      "interest subsidy",
+      "pmay",
+      "home loan"
+    ],
+    "url": "https://pmaymis.gov.in"
+  },
+  {
+    "id": "arhc",
+    "title": "Affordable Rental Housing Complexes (ARHC)",
+    "description": "Rental housing for migrant workers and urban poor under public-private partnerships.",
+    "category": "Housing",
+    "type": "Central",
+    "eligibility": "Migrant workers, informal sector workers, urban poor.",
+    "benefits": "Affordable rental housing with basic amenities in urban areas.",
+    "howToApply": "Contact Urban Local Bodies (ULBs) or private ARHC operators in your area.",
+    "documents": [
+      "Aadhaar",
+      "Proof of employment",
+      "Identity documents"
+    ],
+    "lastUpdated": "2025-07-08",
+    "status": "Active",
+    "keywords": [
+      "rental",
+      "arhc",
+      "urban poor",
+      "migrant housing",
+      "rental scheme"
+    ],
+    "url": "https://pmay-urban.gov.in/arhc"
+  },
+  {
+    "id": "ghtc-india",
+    "title": "Global Housing Technology Challenge - India (GHTC-India)",
+    "description": "Promotes innovative, fast, and cost-effective housing construction technologies.",
+    "category": "Housing",
+    "type": "Central",
+    "eligibility": "Construction agencies, developers, state housing boards.",
+    "benefits": "Tech validation, funding support for pilot projects, and knowledge exchange.",
+    "howToApply": "Submit proposals via [ghtc-india.gov.in](https://ghtc-india.gov.in).",
+    "documents": [
+      "Company registration",
+      "Proposal document",
+      "Technical brochure"
+    ],
+    "lastUpdated": "2025-07-08",
+    "status": "Active",
+    "keywords": [
+      "ghtc",
+      "housing technology",
+      "construction",
+      "innovation",
+      "urban"
+    ],
+    "url": "https://ghtc-india.gov.in"
+  },
+
+    {
+      "id": "light-house-projects",
+      "title": "Light House Projects (LHPs)",
+      "description": "Part of GHTC-India, these projects demonstrate innovative construction technologies for affordable housing.",
+      "category": "Housing",
+      "type": "Central",
+      "eligibility": "Urban local bodies and state housing authorities implementing housing projects.",
+      "benefits": "Support for replicable housing models with fast, sustainable technologies.",
+      "howToApply": "Implemented through MoHUA and state governments. No direct application needed.",
+      "documents": [],
+      "lastUpdated": "2025-07-08",
+      "status": "Active",
+      "keywords": ["lhp", "housing technology", "light house", "ghtech", "urban housing"],
+      "url": "https://ghtc-india.gov.in"
+    },
+    {
+      "id": "blc",
+      "title": "Beneficiary Led Construction (BLC)",
+      "description": "Sub-component of PMAY-U for individuals to construct or enhance their existing houses.",
+      "category": "Housing",
+      "type": "Central",
+      "eligibility": "EWS families with legal land title and no pucca house.",
+      "benefits": "₹1.5 lakh assistance for house construction/improvement.",
+      "howToApply": "Apply via ULB or online PMAY portal.",
+      "documents": ["Land ownership proof", "Aadhaar", "Bank details", "Photo"],
+      "lastUpdated": "2025-07-08",
+      "status": "Active",
+      "keywords": ["blc", "construction", "pmay", "urban", "housing grant"],
+      "url": "https://pmaymis.gov.in"
+    },
+    {
+      "id": "slum-redevelopment",
+      "title": "In-Situ Slum Redevelopment (ISSR)",
+      "description": "Redevelopment of slums using land as a resource to provide pucca houses to eligible slum dwellers.",
+      "category": "Housing",
+      "type": "Central",
+      "eligibility": "Urban slum dwellers without pucca houses, listed in local survey records.",
+      "benefits": "Free housing units with infrastructure and tenure security.",
+      "howToApply": "Facilitated by ULBs and implementing agencies.",
+      "documents": ["Slum ID/Survey record", "Aadhaar", "Ration card"],
+      "lastUpdated": "2025-07-08",
+      "status": "Active",
+      "keywords": ["slum", "redevelopment", "housing", "urban poor", "pucca house"],
+      "url": "https://pmaymis.gov.in"
+    },
+    {
+      "id": "ahf",
+      "title": "Affordable Housing Fund (AHF)",
+      "description": "Established in National Housing Bank to boost financing for affordable housing.",
+      "category": "Housing",
+      "type": "Central",
+      "eligibility": "Banks and housing finance institutions lending to affordable housing segment.",
+      "benefits": "Low-cost long-term funding to institutions for affordable housing loans.",
+      "howToApply": "Institutions must apply to National Housing Bank.",
+      "documents": ["Loan portfolio details", "Institution registration", "Financials"],
+      "lastUpdated": "2025-07-08",
+      "status": "Active",
+      "keywords": ["affordable housing", "nhb", "finance", "loan fund"],
+      "url": "https://nhb.org.in"
+    },
+    {
+      "id": "nuhf",
+      "title": "National Urban Housing Fund (NUHF)",
+      "description": "Set up by the Ministry of Housing and Urban Affairs to support urban housing programs.",
+      "category": "Housing",
+      "type": "Central",
+      "eligibility": "State/UT governments and housing boards implementing PMAY-U.",
+      "benefits": "Central assistance for implementing large-scale housing schemes.",
+      "howToApply": "Accessed by eligible agencies through MoHUA.",
+      "documents": ["Project reports", "State approvals", "Funding plan"],
+      "lastUpdated": "2025-07-08",
+      "status": "Active",
+      "keywords": ["nuhf", "housing fund", "urban", "mohua"],
+      "url": "https://pmay-urban.gov.in"
+    },
+
+    
+      {
+        "id": "matru-vandana",
+        "title": "Pradhan Mantri Matru Vandana Yojana (PMMVY)",
+        "description": "Maternity benefit program providing cash incentives to pregnant and lactating women for their first live birth.",
+        "category": "Women & Child",
+        "type": "Central",
+        "eligibility": "Pregnant women and lactating mothers aged 19+ for their first child.",
+        "benefits": "₹5,000 in 3 installments for nutrition and rest.",
+        "howToApply": "Apply at Anganwadi Centres or online via [pmmvy-cas.nic.in](https://pmmvy-cas.nic.in).",
+        "documents": ["Aadhaar", "Mother-child protection card", "Bank account", "Identity proof"],
+        "lastUpdated": "2025-07-08",
+        "status": "Active",
+        "keywords": ["maternity", "mother", "pregnancy", "pmmvy", "cash benefit"],
+        "url": "https://pmmvy-cas.nic.in"
+      },
+      {
+        "id": "beti-bachao",
+        "title": "Beti Bachao Beti Padhao (BBBP)",
+        "description": "National campaign to prevent female foeticide and promote girl child education and empowerment.",
+        "category": "Women & Child",
+        "type": "Central",
+        "eligibility": "Focuses on awareness for all citizens, especially in gender-critical districts.",
+        "benefits": "Awareness drives, capacity building, community mobilization.",
+        "howToApply": "Not an individual scheme. Implemented via district-level officers.",
+        "documents": [],
+        "lastUpdated": "2025-07-08",
+        "status": "Active",
+        "keywords": ["beti", "girl child", "gender", "save daughter", "education"],
+        "url": "https://wcd.nic.in/bbbp-schemes"
+      },
+      {
+        "id": "ujjwala",
+        "title": "Pradhan Mantri Ujjwala Yojana (PMUY)",
+        "description": "Provides LPG gas connections to women from BPL households to reduce indoor pollution.",
+        "category": "Women & Child",
+        "type": "Central",
+        "eligibility": "Women from BPL households listed in SECC data or eligible via state schemes.",
+        "benefits": "Free LPG connection, first refill, and stove.",
+        "howToApply": "Apply at nearest LPG distributor or via official PMUY portal.",
+        "documents": ["Aadhaar", "Ration card", "BPL certificate", "Bank passbook"],
+        "lastUpdated": "2025-07-08",
+        "status": "Active",
+        "keywords": ["gas", "ujjwala", "cooking", "lpg", "bpl women"],
+        "url": "https://pmuy.gov.in"
+      },
+      {
+        "id": "sukanya",
+        "title": "Sukanya Samriddhi Yojana",
+        "description": "Small deposit scheme for a girl child’s future education and marriage expenses.",
+        "category": "Women & Child",
+        "type": "Central",
+        "eligibility": "Parents/guardians of girl children below 10 years of age.",
+        "benefits": "High interest savings account with tax exemption under 80C.",
+        "howToApply": "Open account at any post office or authorized bank branch.",
+        "documents": ["Girl’s birth certificate", "Parent's ID proof", "Address proof"],
+        "lastUpdated": "2025-07-08",
+        "status": "Active",
+        "keywords": ["savings", "girl child", "sukanya", "education", "marriage"],
+        "url": "https://www.india.gov.in/sukanya-samriddhi-account"
+      },
+      {
+        "id": "one-stop-centre",
+        "title": "One Stop Centre Scheme (Sakhi Centres)",
+        "description": "Provides integrated support and assistance to women affected by violence under one roof.",
+        "category": "Women & Child",
+        "type": "Central",
+        "eligibility": "Any woman affected by violence irrespective of age, caste, class or religion.",
+        "benefits": "24x7 emergency response, legal aid, psychological counseling, shelter.",
+        "howToApply": "Visit nearest One Stop Centre (OSC) or call Women Helpline 181.",
+        "documents": ["ID proof (if available)", "FIR copy (if any)", "Medical report (optional)"],
+        "lastUpdated": "2025-07-08",
+        "status": "Active",
+        "keywords": ["violence", "abuse", "sakhi", "rescue", "legal help"],
+        "url": "https://wcd.nic.in/schemes/one-stop-centre-scheme"
+      },
+      
+        {
+          "id": "women-helpline-181",
+          "title": "Women Helpline Scheme (181)",
+          "description": "24x7 toll-free helpline (181) to support women in distress, offering emergency and referral services.",
+          "category": "Women & Child",
+          "type": "Central",
+          "eligibility": "Any woman in distress due to violence, harassment, or emergency situations.",
+          "benefits": "Emergency support, police referral, medical and legal aid, emotional support.",
+          "howToApply": "Call 181 from any mobile or landline phone.",
+          "documents": [],
+          "lastUpdated": "2025-07-08",
+          "status": "Active",
+          "keywords": ["women helpline", "emergency", "181", "support", "violence"],
+          "url": "https://wcd.nic.in/schemes/women-helpline-scheme"
+        },
+        {
+          "id": "mahila-shakti",
+          "title": "Mahila Shakti Kendra (MSK)",
+          "description": "Empowers rural women through community participation and local resource centers.",
+          "category": "Women & Child",
+          "type": "Central",
+          "eligibility": "Women aged 18 and above, especially from rural and marginalized areas.",
+          "benefits": "Skill development, digital literacy, employment support, legal guidance.",
+          "howToApply": "Visit the nearest Mahila Shakti Kendra or contact your district WCD office.",
+          "documents": ["Aadhaar", "Proof of residence"],
+          "lastUpdated": "2025-07-08",
+          "status": "Active",
+          "keywords": ["mahila", "shakti", "women empowerment", "rural", "msk"],
+          "url": "https://wcd.nic.in/schemes/mahila-shakti-kendra-msk"
+        },
+        {
+          "id": "working-women-hostel",
+          "title": "Working Women Hostel Scheme",
+          "description": "Provides safe and affordable housing for working women away from their home.",
+          "category": "Women & Child",
+          "type": "Central",
+          "eligibility": "Working women with income below ₹50,000/month in metros (₹35,000 elsewhere); widows, single mothers, trainees also eligible.",
+          "benefits": "Subsidized hostel accommodation with day-care facilities.",
+          "howToApply": "Apply through the warden at listed hostels or via employer tie-up.",
+          "documents": ["Employment proof", "Income certificate", "ID proof"],
+          "lastUpdated": "2025-07-08",
+          "status": "Active",
+          "keywords": ["hostel", "working women", "accommodation", "single mother"],
+          "url": "https://wcd.nic.in/schemes/working-women-hostel"
+        },
+        {
+          "id": "poshan-abhiyaan",
+          "title": "POSHAN Abhiyaan (National Nutrition Mission)",
+          "description": "Aims to improve nutritional outcomes for children, pregnant women, and lactating mothers.",
+          "category": "Women & Child",
+          "type": "Central",
+          "eligibility": "Children under 6, pregnant women, lactating mothers, and adolescent girls.",
+          "benefits": "Growth monitoring, dietary advice, supplementary nutrition, anemia control.",
+          "howToApply": "Access through Anganwadi centers under Ministry of Women & Child Development.",
+          "documents": ["Aadhaar", "Child registration", "Health card"],
+          "lastUpdated": "2025-07-08",
+          "status": "Active",
+          "keywords": ["nutrition", "poshan", "anganwadi", "malnutrition", "mother child"],
+          "url": "https://poshanabhiyaan.gov.in"
+        },
+        {
+          "id": "icds",
+          "title": "Integrated Child Development Services (ICDS)",
+          "description": "Comprehensive scheme for early childhood care and nutrition through Anganwadi centers.",
+          "category": "Women & Child",
+          "type": "Central",
+          "eligibility": "Children below 6 years, pregnant and lactating women.",
+          "benefits": "Supplementary nutrition, preschool education, health checkups, immunization.",
+          "howToApply": "Enroll at nearest Anganwadi center in your locality.",
+          "documents": ["Child birth certificate", "Mother's Aadhaar", "Health card"],
+          "lastUpdated": "2025-07-08",
+          "status": "Active",
+          "keywords": ["icds", "nutrition", "anganwadi", "child care", "preschool"],
+          "url": "https://wcd.nic.in/icds"
+        },
+      
+        
+          {
+            "id": "pm-mudra",
+            "title": "Pradhan Mantri MUDRA Yojana (PMMY)",
+            "description": "Provides micro-credit to small and micro enterprises through MUDRA loans under Shishu, Kishore, and Tarun categories.",
+            "category": "Business & Employment",
+            "type": "Central",
+            "eligibility": "Non-corporate, non-farm small/micro enterprises in manufacturing, trading, or service sector.",
+            "benefits": "Loans up to ₹10 lakh without collateral under three categories: Shishu (up to ₹50K), Kishore (₹50K–₹5L), Tarun (₹5L–₹10L).",
+            "howToApply": "Apply at banks, NBFCs, or online via Udyam portal or JanSamarth portal.",
+            "documents": ["Aadhaar", "Business proof", "Bank passbook", "Quotation or project report"],
+            "lastUpdated": "2025-07-08",
+            "status": "Active",
+            "keywords": ["mudra", "loan", "startup", "micro finance", "shishu"],
+            "url": "https://mudra.org.in"
+          },
+          {
+            "id": "stand-up-india",
+            "title": "Stand Up India Scheme",
+            "description": "Facilitates bank loans between ₹10 lakh and ₹1 crore to SC/ST and women entrepreneurs.",
+            "category": "Business & Employment",
+            "type": "Central",
+            "eligibility": "SC/ST or woman entrepreneurs aged 18+ starting a greenfield enterprise.",
+            "benefits": "Loans for manufacturing, trading, or services with relaxed collateral and margin requirements.",
+            "howToApply": "Apply at designated branches or via [standupmitra.in](https://www.standupmitra.in).",
+            "documents": ["Caste certificate", "Business plan", "KYC documents", "Bank account"],
+            "lastUpdated": "2025-07-08",
+            "status": "Active",
+            "keywords": ["stand up", "entrepreneur", "sc", "women", "startup loan"],
+            "url": "https://www.standupmitra.in"
+          },
+          {
+            "id": "startup-india",
+            "title": "Start-up India",
+            "description": "Government initiative to support innovation and startups via funding, tax benefits, and incubation.",
+            "category": "Business & Employment",
+            "type": "Central",
+            "eligibility": "Entities registered in India as private limited, LLP, or partnership under 10 years old and under ₹100 crore turnover.",
+            "benefits": "Tax exemption, seed fund, DPIIT recognition, incubation support.",
+            "howToApply": "Register at [startupindia.gov.in](https://www.startupindia.gov.in).",
+            "documents": ["Startup certificate", "Incorporation docs", "PAN", "Bank details"],
+            "lastUpdated": "2025-07-08",
+            "status": "Active",
+            "keywords": ["startup", "funding", "innovation", "incubation", "entrepreneur"],
+            "url": "https://www.startupindia.gov.in"
+          },
+          {
+            "id": "make-in-india",
+            "title": "Make in India",
+            "description": "Encourages companies to manufacture in India and incentivizes dedicated investments.",
+            "category": "Business & Employment",
+            "type": "Central",
+            "eligibility": "Domestic and foreign investors, industries across 27 sectors.",
+            "benefits": "Ease of doing business, subsidies, tax breaks, single-window clearance.",
+            "howToApply": "Submit investment proposals via Invest India or state nodal agencies.",
+            "documents": ["Company registration", "Investment proposal", "PAN", "FCRA clearance (if applicable)"],
+            "lastUpdated": "2025-07-08",
+            "status": "Active",
+            "keywords": ["make in india", "manufacturing", "investment", "industry"],
+            "url": "https://www.makeinindia.com"
+          },
+          {
+            "id": "pm-egp",
+            "title": "Prime Minister’s Employment Generation Programme (PMEGP)",
+            "description": "Provides financial assistance to set up micro-enterprises in non-farm sector.",
+            "category": "Business & Employment",
+            "type": "Central",
+            "eligibility": "Individuals aged 18+, educational qualification 8th pass, institutions, SHGs, and cooperatives.",
+            "benefits": "Subsidy of 15%–35% on project cost up to ₹25 lakh (manufacturing) or ₹10 lakh (services).",
+            "howToApply": "Apply online via [kviconline.gov.in/pmegpeportal](https://kviconline.gov.in/pmegpeportal).",
+            "documents": ["Aadhaar", "PAN", "Project report", "Caste/income certificate"],
+            "lastUpdated": "2025-07-08",
+            "status": "Active",
+            "keywords": ["employment", "pmegp", "khadi", "self-employment", "loan"],
+            "url": "https://kviconline.gov.in/pmegpeportal"
+          },
+        
+          
+            {
+              "id": "naps",
+              "title": "National Apprenticeship Promotion Scheme (NAPS)",
+              "description": "Promotes apprenticeship training by providing stipend support to establishments and encouraging skill development.",
+              "category": "Business & Employment",
+              "type": "Central",
+              "eligibility": "Any individual aged 14+ and employers registered on the Apprenticeship portal.",
+              "benefits": "25% of the stipend (up to ₹1,500/month) reimbursed to employers by the government.",
+              "howToApply": "Register as apprentice or employer at [apprenticeshipindia.gov.in](https://www.apprenticeshipindia.gov.in).",
+              "documents": ["Aadhaar", "Bank details", "Education certificate"],
+              "lastUpdated": "2025-07-08",
+              "status": "Active",
+              "keywords": ["apprenticeship", "training", "naps", "stipend", "employment"],
+              "url": "https://www.apprenticeshipindia.gov.in"
+            },
+            {
+              "id": "ncs",
+              "title": "National Career Service (NCS)",
+              "description": "A one-stop platform offering job opportunities, career guidance, and skill development resources.",
+              "category": "Business & Employment",
+              "type": "Central",
+              "eligibility": "Open to all Indian citizens seeking jobs or career support.",
+              "benefits": "Job listings, career counseling, skill training, vocational guidance.",
+              "howToApply": "Register at [ncs.gov.in](https://www.ncs.gov.in) and build a profile.",
+              "documents": ["Aadhaar", "Resume", "Education certificates"],
+              "lastUpdated": "2025-07-08",
+              "status": "Active",
+              "keywords": ["job portal", "career", "guidance", "ncs", "employment"],
+              "url": "https://www.ncs.gov.in"
+            },
+            {
+              "id": "abry",
+              "title": "Atmanirbhar Bharat Rozgar Yojana (ABRY)",
+              "description": "Incentivizes employers to create new employment opportunities during the COVID recovery period.",
+              "category": "Business & Employment",
+              "type": "Central",
+              "eligibility": "Employers registered under EPFO hiring new employees with monthly wages up to ₹15,000.",
+              "benefits": "EPF contribution (24%) paid by government for two years.",
+              "howToApply": "Enroll new employees through the EPFO portal under ABRY scheme.",
+              "documents": ["UAN", "EPF registration", "Bank details", "PAN"],
+              "lastUpdated": "2025-07-08",
+              "status": "Active",
+              "keywords": ["employment", "epf", "abry", "new jobs", "subsidy"],
+              "url": "https://epfindia.gov.in"
+            },
+            {
+              "id": "pmsvanidhi",
+              "title": "PM Street Vendor's AtmaNirbhar Nidhi (PM SVANidhi)",
+              "description": "Micro-credit scheme for street vendors to access working capital loans up to ₹10,000.",
+              "category": "Business & Employment",
+              "type": "Central",
+              "eligibility": "Street vendors active as of March 24, 2020 with valid ID or LOR from ULB.",
+              "benefits": "Collateral-free loan with interest subsidy and cashback incentives for digital payments.",
+              "howToApply": "Apply online at [pmsvanidhi.mohua.gov.in](https://pmsvanidhi.mohua.gov.in) or via Common Service Centers.",
+              "documents": ["Voter ID/Aadhaar", "Vendor certificate", "Bank passbook"],
+              "lastUpdated": "2025-07-08",
+              "status": "Active",
+              "keywords": ["svanidhi", "vendor", "loan", "street seller", "working capital"],
+              "url": "https://pmsvanidhi.mohua.gov.in"
+            },
+            {
+              "id": "nrml",
+              "title": "National Rural Livelihoods Mission (NRLM)",
+              "description": "Empowers rural poor by promoting self-employment through SHGs and federations.",
+              "category": "Business & Employment",
+              "type": "Central",
+              "eligibility": "Rural poor households identified by SECC and participating in SHGs.",
+              "benefits": "Interest-free loans, training, and access to markets through SHG networks.",
+              "howToApply": "Join a Self Help Group or contact the nearest block mission office.",
+              "documents": ["SHG membership proof", "Aadhaar", "Bank account"],
+              "lastUpdated": "2025-07-08",
+              "status": "Active",
+              "keywords": ["nrlm", "shg", "self help", "rural employment", "livelihood"],
+              "url": "https://aajeevika.gov.in"
+            }
+          
+          
+    
+  ]
+  

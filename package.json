@@ -1,0 +1,42 @@
+{
+  "name": "india-schemes-mcp",
+  "version": "1.0.0",
+  "description": "Model Context Protocol (MCP) server exposing Indian Government Welfare Scheme intelligence, eligibility checks, and application steps for Claude Desktop and Cursor.",
+  "type": "module",
+  "bin": {
+    "india-schemes-mcp": "./dist/index.js"
+  },
+  "scripts": {
+    "build": "tsc && node scripts/copy-data.js",
+    "start": "node dist/index.js",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "inspect": "npx @modelcontextprotocol/inspector node dist/index.js"
+  },
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "yojana",
+    "government-schemes",
+    "india",
+    "claude",
+    "anthropic",
+    "cursor",
+    "welfare",
+    "llm"
+  ],
+  "author": "Mohd Waqar",
+  "license": "MIT",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.6.1",
+    "zod": "^3.24.2"
+  },
+  "devDependencies": {
+    "@types/node": "^22.13.9",
+    "typescript": "^5.7.3",
+    "vitest": "^3.0.7"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  }
+}
