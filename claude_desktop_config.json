@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "yojana-dost": {
+      "command": "node",
+      "args": [
+        "/Users/mohdwaqar/Desktop/YojanaPortal/dist/index.js"
+      ],
+      "env": {
+        "NODE_ENV": "production",
+        "SCHEMES_FILE_PATH": "/Users/mohdwaqar/Desktop/YojanaPortal/data/schemes.json"
+      }
+    }
+  }
+}
